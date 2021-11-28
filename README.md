@@ -7,6 +7,6 @@ várias partes do código em mais de um core do processador.Desse modo, obtém-s
 <br>
 &nbsp Enfim,as threads podem ser simples ou múltiplas, dependendo de sua quantidade e aplicação, e,no que tange ao python, elas podem ser utilizadas por meio do pacote <b>threading<b>.<br>
   <br>
-OBS: Isto é apenas um estudo inicial da parte de concorrência e paralelismo.
+OBS: Isto é apenas um estudo inicial da parte de concorrência e paralelismo, o qual estou dando continuidade....
   <br>
 DOC: https://docs.python.org/3/library/threading.html
