@@ -5,7 +5,7 @@ import time
 
 def main():
     # passa-se uma listas de threads para ser iniciada
-    ths = [threading.Thread(target=conte, args=('Reais', 10)), # A ordem e o tempo não são decididos por mim, mas pelo algoritmo de escalonamento do SO
+    ths = [threading.Thread(target=conte, args=('Reais', 10)), # A ordem e o tempo não são decididos por mim, mas, pelo algoritmo de escalonamento do SO
            threading.Thread(target=conte, args=('Dólares', 8)),
            threading.Thread(target=conte, args=('Euros', 20)),
            threading.Thread(target=conte, args=('centavos', 1)),
