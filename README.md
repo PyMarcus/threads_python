@@ -1,5 +1,4 @@
-# threads_python
-
+Concorrência e paralelismo
 <h1>Threads<h1>
 <br>
 Threads são linhas de execução.Isto é, o sistema operacional divide o programa em pequenas processos para serem executados por uma thread.<br>
