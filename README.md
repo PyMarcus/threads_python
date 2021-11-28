@@ -1,6 +1,6 @@
 # threads_python
 
-##Threads
+<h1>Threads<h1>
 <br>
 Threads são linhas de execução.Isto é, o sistema operacional divide o programa em pequenas processos para serem executados por uma thread.<br>
 O python puro é considerado lento, devido ao Global Interpreter Lock, no entanto, com a programação concorrente-conseguir executar<br>
